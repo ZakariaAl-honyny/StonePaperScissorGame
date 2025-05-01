@@ -1,0 +1,33 @@
+﻿  Source.cpp
+C:\Users\ALlahabi\Desktop\Pro\StonePaperScissorGame_MakesByUsingOOP\clsString.h(39,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\ALlahabi\Desktop\Pro\StonePaperScissorGame_MakesByUsingOOP\clsString.h(44,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\ALlahabi\Desktop\Pro\StonePaperScissorGame_MakesByUsingOOP\clsString.h(151,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\ALlahabi\Desktop\Pro\StonePaperScissorGame_MakesByUsingOOP\clsString.h(328,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\ALlahabi\Desktop\Pro\StonePaperScissorGame_MakesByUsingOOP\clsString.h(359,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\ALlahabi\Desktop\Pro\StonePaperScissorGame_MakesByUsingOOP\clsString.h(391,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\ALlahabi\Desktop\Pro\StonePaperScissorGame_MakesByUsingOOP\clsString.h(437,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\ALlahabi\Desktop\Pro\StonePaperScissorGame_MakesByUsingOOP\clsStonePaperScissorGame.h(33,7): warning C4240: nonstandard extension used: access to 'clsStonePaperScissorGame::enGameChoice' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Source.cpp')
+      C:\Users\ALlahabi\Desktop\Pro\StonePaperScissorGame_MakesByUsingOOP\clsStonePaperScissorGame.h(12,7):
+      see declaration of 'clsStonePaperScissorGame::enGameChoice'
+  
+C:\Users\ALlahabi\Desktop\Pro\StonePaperScissorGame_MakesByUsingOOP\clsStonePaperScissorGame.h(34,7): warning C4240: nonstandard extension used: access to 'clsStonePaperScissorGame::enWinner' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Source.cpp')
+      C:\Users\ALlahabi\Desktop\Pro\StonePaperScissorGame_MakesByUsingOOP\clsStonePaperScissorGame.h(13,7):
+      see declaration of 'clsStonePaperScissorGame::enWinner'
+  
+  StonePaperScissorGame_MakesByUsingOOP.vcxproj -> C:\Users\ALlahabi\Desktop\Pro\StonePaperScissorGame_MakesByUsingOOP\x64\Debug\StonePaperScissorGame_MakesByUsingOOP.exe

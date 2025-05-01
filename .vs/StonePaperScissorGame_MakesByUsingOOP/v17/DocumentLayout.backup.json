@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALlahabi\\Desktop\\Pro\\StonePaperScissorGame_MakesByUsingOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2E331F-D506-4BA2-827D-1BA146B1C3B2}|StonePaperScissorGame_MakesByUsingOOP.vcxproj|C:\\Users\\ALlahabi\\Desktop\\Pro\\StonePaperScissorGame_MakesByUsingOOP\\clsStonePaperScissorGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C2E331F-D506-4BA2-827D-1BA146B1C3B2}|StonePaperScissorGame_MakesByUsingOOP.vcxproj|solutionrelative:clsStonePaperScissorGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2E331F-D506-4BA2-827D-1BA146B1C3B2}|StonePaperScissorGame_MakesByUsingOOP.vcxproj|C:\\Users\\ALlahabi\\Desktop\\Pro\\StonePaperScissorGame_MakesByUsingOOP\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C2E331F-D506-4BA2-827D-1BA146B1C3B2}|StonePaperScissorGame_MakesByUsingOOP.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2E331F-D506-4BA2-827D-1BA146B1C3B2}|StonePaperScissorGame_MakesByUsingOOP.vcxproj|C:\\Users\\ALlahabi\\Desktop\\Pro\\StonePaperScissorGame_MakesByUsingOOP\\clsShowMainMenueGameScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C2E331F-D506-4BA2-827D-1BA146B1C3B2}|StonePaperScissorGame_MakesByUsingOOP.vcxproj|solutionrelative:clsShowMainMenueGameScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsStonePaperScissorGame.h",
+              "DocumentMoniker": "C:\\Users\\ALlahabi\\Desktop\\Pro\\StonePaperScissorGame_MakesByUsingOOP\\clsStonePaperScissorGame.h",
+              "RelativeDocumentMoniker": "clsStonePaperScissorGame.h",
+              "ToolTip": "C:\\Users\\ALlahabi\\Desktop\\Pro\\StonePaperScissorGame_MakesByUsingOOP\\clsStonePaperScissorGame.h",
+              "RelativeToolTip": "clsStonePaperScissorGame.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-30T08:49:43.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsShowMainMenueGameScreen.h",
+              "DocumentMoniker": "C:\\Users\\ALlahabi\\Desktop\\Pro\\StonePaperScissorGame_MakesByUsingOOP\\clsShowMainMenueGameScreen.h",
+              "RelativeDocumentMoniker": "clsShowMainMenueGameScreen.h",
+              "ToolTip": "C:\\Users\\ALlahabi\\Desktop\\Pro\\StonePaperScissorGame_MakesByUsingOOP\\clsShowMainMenueGameScreen.h",
+              "RelativeToolTip": "clsShowMainMenueGameScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-30T08:47:46.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ALlahabi\\Desktop\\Pro\\StonePaperScissorGame_MakesByUsingOOP\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\ALlahabi\\Desktop\\Pro\\StonePaperScissorGame_MakesByUsingOOP\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-30T08:44:39.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
