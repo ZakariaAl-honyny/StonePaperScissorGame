@@ -25,8 +25,9 @@ The ** Stone Paper Scissor Game ** is a console application that you can play wi
 ```
 git clone https://github.com/ZakariaAl-honyny/StonePaperScissorGame.git
 ```
-<p>3. build the solution and run it </p>
-<p>4. in login screen set ( user name : Zakaria and password : 1234 ) </p>
+<p>3. go to `StonePaperScissorGame_MakesByUsingOOP.sln` file and press it</p>
+<p>4. build the solution and run it </p>
+<p>5. in login screen set ( user name : Zakaria and password : 1234 ) </p>
   
 <h2>🔷 Technologies used in the project</h2>
 
